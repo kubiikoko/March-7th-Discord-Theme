@@ -2,20 +2,29 @@
 
 ## ❀ About
 A cute theme based on March 7th from Honkai: Star Rail. Base theme is based on Midnight-discord by [refact0r](https://github.com/refact0r). For both Preservation & Hunt Path!
+<br /> <br />
+<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454819400814644/eQuBUmk.png?ex=66f19b3c&is=66f049bc&hm=176ced692dd627ca8f85b99766e0201bf54408150eb349a6cb952cb8620b5bc0&=&format=webp&quality=lossless&width=640&height=360">
 
 ## ❀ Install
-Select your theme variation from [releases](https://github.com/kubiikoko/March-7th-Discord-Theme/releases) and drag and drop to your themes folder of your respective client...!
+
+Select your theme variation from up there in the source and drag and drop to your themes folder! <br />
+
+<img align="left" src="https://i.imgur.com/LPH05EO.png" alt="BetterDiscord" width="45" height="45"> <img align="left" src="https://i.imgur.com/fXYKU5q.png" alt="Vencord" width="45" height="45"> <b><p align="left"> <br />
+
 
 ## ❀ Variations
 
 ### ✿ March 7th Preservation: Dark Mode
+<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454491846901920/l1VkpXq.png?ex=66f19aee&is=66f0496e&hm=8bc2523f90d7c8e756e3acf4fdbf397cdd1b15a3241c7a327d1a4c264c3481b5&=&format=webp&quality=lossless&width=640&height=360">
 
 ### ✿ March 7th Preservation: Light Mode
+<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454491548975135/3Ux5kRe.png?ex=66f19aee&is=66f0496e&hm=44ff18502e3e5dd386ad425b4797fa68931e147bf38e479128f30f5b7155b4d0&=&format=webp&quality=lossless&width=640&height=360">
 
 ### ✿ March 7th Hunt: Dark Mode
+<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454492320727113/ZK2wSKk.png?ex=66f19aee&is=66f0496e&hm=06350a06bef7f6db422069a48b57eb8c6dad4c6c8e2dcf3e762b489257b2c2ce&=&format=webp&quality=lossless&width=640&height=360">
 
 ### ✿ March 7th Hunt: Light Mode
-
+<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454491167428739/to5Pb4m.png?ex=66f19aee&is=66f0496e&hm=e5932103d3e57c99952cf91932b6ae5e0a74cc93f98407f85aa692337c5eb066&=&format=webp&quality=lossless&width=640&height=360">
 
 ## ❀ Customization
 Feel free to open the css file adjust and tweak stuff as you want. The base theme file is midnight by [refact0r](https://github.com/refact0r). Make sure to use it as reference if you need help with anything.
