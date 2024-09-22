@@ -6,15 +6,15 @@ A cute theme based on March 7th from Honkai: Star Rail. Base theme is based on M
 ## ❀ Install
 Select your theme variation from [releases](https://github.com/kubiikoko/March-7th-Discord-Theme/releases) and drag and drop to your themes folder of your respective client...!
 
-## Variations
+## ❀ Variations
 
-### ❀ March 7th Preservation: Dark Mode
+### ✿ March 7th Preservation: Dark Mode
 
-### ❀ March 7th Preservation: Light Mode
+### ✿ March 7th Preservation: Light Mode
 
-### ❀ March 7th Hunt: Dark Mode
+### ✿ March 7th Hunt: Dark Mode
 
-### ❀ March 7th Hunt: Light Mode
+### ✿ March 7th Hunt: Light Mode
 
 
 ## ❀ Customization
