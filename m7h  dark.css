@@ -5,7 +5,7 @@
  * @version 1.0.0
  * @invite march7th
  * @website https://github.com/kubiikoko/March-7th-Discord-Theme
- * @source 
+ * @source https://github.com/kubiikoko/March-7th-Discord-Theme/blob/39c6e27882bd62b2d15a70b9f09d64109d4bd43b/m7h%20%20dark.css
  * @authorId 852611391189286993
 
 */
@@ -21,7 +21,7 @@
 html.theme-light,
 .theme-dark {
 	/* change bg */
-	--background-tertiary: url("https://media.discordapp.net/attachments/1285979526978867224/1287441740944506923/cnr2HwM.png?ex=66f18f0e&is=66f03d8e&hm=43191a7837317e2a9048935c1b5e36fb234e2b511e49bada86591ee0406ee6a7&") center/cover no-repeat;
+	--background-tertiary: url("https://media.discordapp.net/attachments/1285979526978867224/1287274512043343912/sM4DKYq.png?ex=66f0f350&is=66efa1d0&hm=5068e0054e0003b2773fefed22e31b4a9e067ee3e09df4a5618e850619109e9c") center/cover no-repeat;
 
 }
 /* search bar in dms */
@@ -128,7 +128,7 @@ html.theme-light,
 
 /* discord icon */
 .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://media.discordapp.net/attachments/1285979526978867224/1287274512609579131/DHLSXwH.png');
+	background: url('https://media.discordapp.net/attachments/1285979526978867224/1287274512609579131/DHLSXwH.png?ex=66f0f350&is=66efa1d0&hm=a8735388df216ed83ffc1671b59948d257ae3e8d88fe8b14d68e183bb03299fc&');
 	background-color: transparent !important;
 	background-size: cover;
 }
@@ -141,7 +141,7 @@ body {
 
 /* Change folder icon */
 :root {
-	--folder-icon-1: url("https://media.discordapp.net/attachments/1285979526978867224/1287274512328429731/2LaIWiF.png");
+	--folder-icon-1: url("https://media.discordapp.net/attachments/1285979526978867224/1287274512328429731/2LaIWiF.png?ex=66f0f350&is=66efa1d0&hm=cdba447ae93336568604e946f3b49f8134b562a77d76fb94a46c89d9ff82ab2b&");
   }
   
   [aria-label="Servers"] {
