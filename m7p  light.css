@@ -5,7 +5,7 @@
  * @version 1.0.0
  * @invite march7th
  * @website https://github.com/kubiikoko/March-7th-Discord-Theme
- * @source 
+ * @source https://github.com/kubiikoko/March-7th-Discord-Theme/blob/39c6e27882bd62b2d15a70b9f09d64109d4bd43b/m7p%20%20light.css
  * @authorId 852611391189286993
 
 */
@@ -23,7 +23,7 @@ html.theme-light
     --background-tertiary: url("https://cdn.discordapp.com/attachments/1286005393155424316/1287274540124082196/WwSGDfH.png?ex=66f0f356&is=66efa1d6&hm=fb513368321d702dd578bbbbb4c6478f13b0ca591d5415c3af4f6a983724b00b&") center/cover no-repeat ;
 }
 /* making usernames visible in chat */
-.username_f9f2ca {
+.username_f9f2ca,.memberNameText_a39fe9 {
 	filter: hue-rotate(1deg) !important;
 	 text-shadow: 
 		  1px  1px 0 #a89d9d8f;
@@ -36,6 +36,29 @@ html.theme-light
 
 }
 
+/* making stuff pretty at role select discord onboarding */
+.profileCard_c6b11b {
+	background-color: #DE93B3;
+}
+  
+.role_c6b11b {
+  
+	  background-color: #a0c1d6;
+  
+}
+
+.lookOutlined_dd4f85 .contents_dd4f85 {
+    color: #ffff;
+}
+ /* some other elements fixing */
+.text-xs\/medium_dc00ef {
+    color: #ffff;
+}
+
+.textBadge_df8943 {
+    color: #917387;
+}
+
  /* notification button */
 .icon_df8943 {
     color: #ffffff;
@@ -46,6 +69,8 @@ html.theme-light
    --text-normal: #ffff;
    --text-muted: #ffff;
    --interactive-normal: #ffff;
+   --header-secondary: #ffff;
+   --interactive-active: #ffff;
    
  }
  
