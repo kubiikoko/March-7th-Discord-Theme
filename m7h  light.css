@@ -5,7 +5,7 @@
  * @version 1.0.0
  * @invite march7th
  * @website https://github.com/kubiikoko/March-7th-Discord-Theme
- * @source 
+ * @source https://github.com/kubiikoko/March-7th-Discord-Theme/blob/39c6e27882bd62b2d15a70b9f09d64109d4bd43b/m7h%20%20light.css
  * @authorId 852611391189286993
 
 */
@@ -25,18 +25,40 @@ html.theme-light,
 }
 
 /* making usernames visible in chat */
-.username_f9f2ca {
+.username_f9f2ca,.memberNameText_a39fe9 {
 	filter: hue-rotate(1deg) !important;
 	 text-shadow: 
 		  1px  1px 0 #a89d9d8f;
  
  }
+
+ /* some other elements fixing */
+ .text-xs\/medium_dc00ef {
+    color: #ffff;
+}
+.lookOutlined_dd4f85 .contents_dd4f85 {
+    color: #ffff;
+}
+.textBadge_df8943 {
+    color: #825773;
+}
+
  /* fixing text color in forum etc */
  .lookFilled_dd4f85.colorPrimary_dd4f85 {
     color: white;
 
 }
 
+/* making stuff pretty at role select discord onboarding */
+.profileCard_c6b11b {
+	background-color: #DE93B3;
+}
+  
+.role_c6b11b {
+  
+	  background-color: #fcd2d2;
+  
+}
  
  /* fixing text on profiles etc; */
  .theme-dark, .theme-dark.custom-theme-background  {
