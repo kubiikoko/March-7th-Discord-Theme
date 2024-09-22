@@ -29,6 +29,9 @@ Select your theme variation from up there in the source and drag and drop to you
 ## ❀ Customization
 Feel free to open the css file adjust and tweak stuff as you want. The base theme file is midnight by [refact0r](https://github.com/refact0r). Make sure to use it as reference if you need help with anything.
 
+## ❀ Support 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O0120J9T)
+
 ## ❀ Credits
 
 [Main theme by refact0r](https://github.com/refact0r) <br />
