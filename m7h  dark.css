@@ -1,0 +1,194 @@
+/**
+ * @name March 7th Hunt Dark Mode
+ * @description discord.gg/march7th A cute theme based on March 7th from Honkai: Star Rail.
+ * @author cinnakoko, refact0r, esme, anubis
+ * @version 1.0.0
+ * @invite march7th
+ * @website https://github.com/kubiikoko/March-7th-Discord-Theme
+ * @source 
+ * @authorId 852611391189286993
+
+*/
+
+
+
+@import url('https://refact0r.github.io/midnight-discord/midnight.css');
+
+/* fixing discords stupid design by tom22k */
+@import url("https://raw.githubusercontent.com/tom22k/discord-css/main/Themes/Snippets/MergeAppLauncher.css");
+
+
+html.theme-light,
+.theme-dark {
+	/* change bg */
+	--background-tertiary: url("https://cdn.discordapp.com/attachments/1285979526978867224/1286672351747899453/djOG2KB.png?ex=66eec281&is=66ed7101&hm=05eac033c429faebf044f047eedb58fa31e8fe383fd448624ca4da7b1916395f&") center/cover no-repeat;
+
+}
+/* search bar in dms */
+.searchBar_f0963d .searchBarComponent_f0963d {
+
+    background-color: #2d1122;
+}
+
+.searchBarComponent_f0963d {
+    background: #2d1122;
+}
+
+/* notification badge and mute,deafen buttons */
+.container_b2ca13, .numberBadge_df8943, .toolbar_fc4f04 {
+    --status-danger:#ee8ea8  ;
+}
+
+/* search bar in server */
+.searchBar_a46bef {
+    background: #2d1122;
+}
+.container_aa1bff {
+  background: #4f253f;
+} 
+
+/* a block down near discovery button */
+.footer_aa1bff {
+    background: #4f253f;
+}
+/* customize things here */
+:root {
+	/* font, change to 'gg sans' for default discord font*/
+	--font: 'figtree';
+
+	/* top left corner text */
+	--corner-text: '❀ March 7th';
+
+	/* thickness of messages divider */
+	--divider-thickness: 3px;
+
+	/* color of status indicators and window controls */
+	--online-indicator: #a6da95; /* change to #23a55a for default green */
+	--dnd-indicator: #ed8796; /* change to #f23f43 for default red */
+	--idle-indicator: #eed49f; /* change to #f0b232 for default yellow */
+	--streaming-indicator: #c6a0f6; /* change to #593695 for default purple */
+
+	/* accent colors */
+	--accent-1: #F2D0D9; /* links */
+	--accent-2: #F2D888; /* general unread/mention elements */
+	--accent-3: #ee8ea8; /* accent buttons */
+	--accent-4: #eb819e; /* accent buttons when hovered */
+	--accent-5: hsl(344, 81%, 67%); /* accent buttons when clicked */
+	--mention: hsla(321, 72%, 69%, 0.1); /* mentions & mention messages */
+	--mention-hover: hsla(330, 79%, 61%, 0.05); /* mentions & mention messages when hovered */
+
+	/* text colors */
+	--text-0: var(--bg-4); /* text on colored elements */
+	--text-1: hsl(221, 44%, 95%); /* bright text on colored elements */
+	--text-2: #F2E6DF; /* headings and important text */
+	--text-3: hsl(0, 0%, 100%); /* normal text */
+	--text-4: #F2E6DF; /* icon buttons and channels */
+	--text-5: #F2D8D8; /* muted channels/chats and timestamps */
+
+	/* background and dark colors */
+	--bg-1: hsla(64, 81%, 67%, 0.308); /* dark buttons when clicked */
+	--bg-2: hsla(64, 86%, 54%, 0.308); /* dark buttons */
+	--bg-3: #4a1b1f; /* spacing, secondary elements */
+	--bg-4: #4f253f; /* main background color */
+	--hover: hsla(229, 15%, 53%, 0.1); /* channels and buttons when hovered */
+	--active: hsla(235, 15%, 53%, 0.2); /* channels and buttons when clicked or selected */
+	--message-hover: hsla(330, 47%, 64%, 0.213); /* messages when hovered */
+
+	/* amount of spacing and padding */
+	--spacing: 18px;
+
+	/* animations */
+	/* ALL ANIMATIONS CAN BE DISABLED WITH REDUCED MOTION IN DISCORD SETTINGS */
+	--list-item-transition: 0.2s ease; /* channels/members/settings hover transition */
+	--unread-bar-transition: 0.2s ease; /* unread bar moving into view transition */
+	--moon-spin-transition: 0.4s ease; /* moon icon spin */
+	--icon-spin-transition: 1s ease; /* round icon button spin (settings, emoji, etc.) */
+
+	/* corner roundness (border-radius) */
+	--roundness-xl: 22px; /* roundness of big panel outer corners */
+	--roundness-l: 20px; /* popout panels */
+	--roundness-m: 16px; /* smaller panels, images, embeds */
+	--roundness-s: 12px; /* members, settings inputs */
+	--roundness-xs: 10px; /* channels, buttons */
+	--roundness-xxs: 8px; /* searchbar, small elements */
+
+	/* direct messages moon icon */
+	/* change to block to show, none to hide */
+	--discord-icon: none; /* discord icon */
+	--moon-icon: none; /* moon icon */
+	--moon-icon-url: none; /* custom icon url */
+	--moon-icon-size: auto;
+
+	/* filter uncolorable elements to fit theme */
+	/* (just set to none, they're too much work to configure) */
+	--login-bg-filter: none; /* login background artwork */
+	--green-to-accent-3-filter: none; /* add friend page explore icon */
+	--blurple-to-accent-3-filter: none; /* add friend page school icon */
+}
+
+/* catppuccin icon */
+.childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
+	background: url('https://media.discordapp.net/attachments/1285979526978867224/1286400855582707712/gYutiME.png?ex=66edc5a8&is=66ec7428&hm=5c6b7deb599a60330fd03d9744b6ae8b12d81017e66ad211cd17824b9336e890&');
+	background-color: transparent !important;
+	background-size: cover;
+}
+/* Transgender Boost Gradient; Recolors the boosting gradient to be the best flag ever by MandelineMaid*/
+body {
+    --guild-boosting-blue: #FF9A56, #D162A4, #FFFFFF;
+    --guild-boosting-purple: #FFFFFF, #D162A4, #FF9A56;
+}
+
+
+/* Change folder icon */
+:root {
+	--folder-icon-1: url("https://media.discordapp.net/attachments/1285979526978867224/1286660087716384899/RsASzl4.png?ex=66eeb715&is=66ed6595&hm=cb804e0060023ecc8cc0a6557f580239dbe244abfbe6bca5d79b9fed58eed3bf&=&format=webp&quality=lossless&width=95&height=95");
+  }
+  
+  [aria-label="Servers"] {
+	& > * {
+	  --folder-icon: var(--folder-icon-1);
+	  --position-left: 11.5px;
+	  --fill: currentColor;
+	}
+	[aria-owns^="folder-items-"] > [class^="folderIconWrapper_"] {
+	  position: relative; 
+	  [class^="closedFolderIconWrapper_"],
+	  [class^="expandedFolderIconWrapper_"] {
+		display: none;
+	  }
+	  &::after {
+		background-image: var(--folder-icon);
+		background-size: cover;
+		background-repeat: no-repeat;
+		content: "";
+		position: absolute;
+		top: 12px;
+		left: var(--position-left);
+		width: 24px;
+		height: 24px;
+	 
+	  }
+	}
+  }
+
+.platform-osx .wrapper_a7e7a8 {
+    margin-top: 0;
+}
+.platform-osx .container__037ed {
+    margin-top: 32px;
+}
+
+/* Top bar */
+.withFrame_a934d8 {padding-top:0px;margin-top:0}
+[class^='typeWindows'] {
+    height: calc(var(--spacing) + 5px);
+    margin: 0;
+}
+
+[class^='winButton'] {
+    background: none !important;
+    top: 0;
+    width: calc(24px);
+    height: calc(var(--spacing) + 5px);
+    margin: 0;
+}
