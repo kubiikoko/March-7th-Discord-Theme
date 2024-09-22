@@ -18,9 +18,9 @@ Select your theme variation from [releases](https://github.com/kubiikoko/March-7
 
 ## Credits
 
-[Main theme by refact0r](https://github.com/refact0r)
-[Merging App launcher with chat by tom22k](https://raw.githubusercontent.com/tom22k/discord-css/main/Themes/Snippets/MergeAppLauncher.css)
-[Custom booster progress bar by MadelineMaid](https://github.com/MadelineMaid)
-Icons and art by Hoyoverse~
+[Main theme by refact0r](https://github.com/refact0r) <br />
+[Merging App launcher with chat by tom22k](https://raw.githubusercontent.com/tom22k/discord-css/main/Themes/Snippets/MergeAppLauncher.css) <br />
+[Custom booster progress bar by MadelineMaid](https://github.com/MadelineMaid) <br />
+Icons and art by Hoyoverse~ <br />
 
 Not affiliated by Hoyoverse by any way. This is a project made for fun.
