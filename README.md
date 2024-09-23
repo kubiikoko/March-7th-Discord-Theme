@@ -14,6 +14,9 @@ Select your theme variation from up there in the source and drag and drop to you
 
 ## ❀ Variations
 
+> [!IMPORTANT]
+> Make sure to use the correct variation of the main discord theme you use (Settings > Appearence) else you are gonna have weird looking artifacts.
+
 ### ✿ March 7th Preservation: Dark Mode
 <img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287594183455932438/dY3cF3X.png?ex=66f21d07&is=66f0cb87&hm=4aacdca814b3ae8099c326de3aecfdd8fa7b1944abf6592db8f96fd39b9a8156&=&format=webp&quality=lossless&width=640&height=360">
 
