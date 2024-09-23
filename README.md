@@ -15,7 +15,7 @@ Select your theme variation from up there in the source and drag and drop to you
 ## ❀ Variations
 
 ### ✿ March 7th Preservation: Dark Mode
-<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454491846901920/l1VkpXq.png?ex=66f19aee&is=66f0496e&hm=8bc2523f90d7c8e756e3acf4fdbf397cdd1b15a3241c7a327d1a4c264c3481b5&=&format=webp&quality=lossless&width=640&height=360">
+<img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287594183455932438/dY3cF3X.png?ex=66f21d07&is=66f0cb87&hm=4aacdca814b3ae8099c326de3aecfdd8fa7b1944abf6592db8f96fd39b9a8156&=&format=webp&quality=lossless&width=640&height=360">
 
 ### ✿ March 7th Preservation: Light Mode
 <img align="center" src="https://media.discordapp.net/attachments/1285979526978867224/1287454491548975135/3Ux5kRe.png?ex=66f19aee&is=66f0496e&hm=44ff18502e3e5dd386ad425b4797fa68931e147bf38e479128f30f5b7155b4d0&=&format=webp&quality=lossless&width=640&height=360">
