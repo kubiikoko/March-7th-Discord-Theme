@@ -23,7 +23,7 @@
 html.theme-light,
 .theme-dark {
 	/* change bg */
-	--background-tertiary: url("https://cdn.discordapp.com/attachments/1286005393155424316/1287321536092700722/68SnszS.png?ex=66f11f1b&is=66efcd9b&hm=e9fa2199bf5305649299a5c0b60312c5930773202d1a3d16ceb15f457992f23f&") center/cover no-repeat;
+	--background-tertiary: url("https://media.discordapp.net/attachments/1286005393155424316/1287321536092700722/68SnszS.png?ex=66f1c7db&is=66f0765b&hm=69ed237506314aa11f1edefe08b26eb71c659da19031107b7f0da213bfb2d145&=") center/cover no-repeat;
 
 }
 /* search bar in dms */
@@ -54,10 +54,10 @@ html.theme-light,
   background: #734C61;
 } 
 
-/* a block down near discovery button */
-.footer_aa1bff {
-    background: #734C61;
-}
+/* remove stupid discovery button */
+[data-list-id="guildsnav"] [class^="footer"]:has(>[class^="gradient"]) {
+	display: none;
+  }
 /* customize things here */
 :root {
 	/* font, change to 'gg sans' for default discord font*/
