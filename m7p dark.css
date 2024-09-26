@@ -1,8 +1,9 @@
 /**
  * @name March 7th Preservation Dark Mode
- * @description A cute theme based on March 7th from Honkai: Star Rail.
+ * @description discord.gg/march7th A cute theme based on March 7th from Honkai: Star Rail.
  * @author cinnakoko, refact0r, esme, anubis
  * @version 1.0.0
+ * @invite march7th
  * @website https://github.com/kubiikoko/March-7th-Discord-Theme
  * @source https://github.com/kubiikoko/March-7th-Discord-Theme/blob/39c6e27882bd62b2d15a70b9f09d64109d4bd43b/m7p%20dark.css
  * @authorId 852611391189286993
@@ -22,7 +23,7 @@
 html.theme-light,
 .theme-dark {
 	/* change bg */
-	--background-tertiary: url("https://media.discordapp.net/attachments/1286005393155424316/1287321536092700722/68SnszS.png?ex=66f1c7db&is=66f0765b&hm=69ed237506314aa11f1edefe08b26eb71c659da19031107b7f0da213bfb2d145&=") center/cover no-repeat;
+	--background-tertiary: url("https://github.com/kubiikoko/March-7th-Discord-Theme/blob/main/assets/march%207th%20preservation%20dark.png?raw=true") center/cover no-repeat;
 
 }
 /* search bar in dms */
@@ -134,7 +135,7 @@ html.theme-light,
 
 /* march 7th flower icon at top */
 .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://cdn.discordapp.com/attachments/1286005393155424316/1287274541558661140/Wy5ZpNu.png?ex=66f0f357&is=66efa1d7&hm=f6d1d3fe0f7f91e0a10019a8351361a659beff55c971c2d8679d816ab8d6a2cd&');
+	background: url('https://github.com/kubiikoko/March-7th-Discord-Theme/blob/main/assets/preservation%20discord%20icon.png?raw=true');
 	background-color: transparent !important;
 	background-size: cover;
 }
@@ -146,7 +147,7 @@ body {
 
 /* Change folder icon */
 :root {
-	--folder-icon-1: url("https://cdn.discordapp.com/attachments/1286005393155424316/1287274541273583649/WZI1EbM.webp?ex=66f0f357&is=66efa1d7&hm=752ffd99d9c70450a1e89339741eca7b2fceecd9d8f0a100ea90e05d64f56ec2&");
+	--folder-icon-1: url("https://github.com/kubiikoko/March-7th-Discord-Theme/raw/refs/heads/main/assets/folder%20icon%20preservation.webp");
   }
   
   [aria-label="Servers"] {
