@@ -1,8 +1,9 @@
 /**
  * @name March 7th Hunt Light Mode
- * @description A cute theme based on March 7th from Honkai: Star Rail.
+ * @description discord.gg/march7th A cute theme based on March 7th from Honkai: Star Rail.
  * @author cinnakoko, refact0r, esme, anubis
  * @version 1.0.0
+ * @invite march7th
  * @website https://github.com/kubiikoko/March-7th-Discord-Theme
  * @source https://github.com/kubiikoko/March-7th-Discord-Theme/blob/39c6e27882bd62b2d15a70b9f09d64109d4bd43b/m7h%20%20light.css
  * @authorId 852611391189286993
@@ -20,7 +21,7 @@
 html.theme-light,
 .theme-dark {
 
-	--background-tertiary: url("https://media.discordapp.net/attachments/1285979526978867224/1287441741296963647/BMwZ6hm.png?ex=66f18f0e&is=66f03d8e&hm=b05ca0b57f32ef8c1bcee544859584148053e88e62a3cdbe7557fd0fc1203e61&") center/cover no-repeat;
+	--background-tertiary: url("https://github.com/kubiikoko/March-7th-Discord-Theme/blob/main/assets/march%207th%20hunt%20light.png?raw=true") center/cover no-repeat;
 }
 
 /* making usernames visible in chat */
@@ -48,10 +49,10 @@ html.theme-light,
 
 }
 
-/* making stuff pretty at role select discord onboarding */
-.profileCard_c6b11b {
-	background-color: #DE93B3;
-}
+/* remove stupid discovery button */
+[data-list-id="guildsnav"] [class^="footer"]:has(>[class^="gradient"]) {
+	display: none;
+  }
   
 .role_c6b11b {
   
@@ -182,7 +183,7 @@ html.theme-light,
 
 /* discord icon */
 .childWrapper_f90abb:has(> svg:not(.favoriteIcon_dcc7a4)) {
-	background: url('https://media.discordapp.net/attachments/1285979526978867224/1287274512609579131/DHLSXwH.png?ex=66f0f350&is=66efa1d0&hm=a8735388df216ed83ffc1671b59948d257ae3e8d88fe8b14d68e183bb03299fc&');
+	background: url('https://github.com/kubiikoko/March-7th-Discord-Theme/blob/main/assets/hunt%20discord%20icon.png?raw=true');
 	background-color: transparent !important;
 	background-size: cover;
 }
@@ -195,7 +196,7 @@ body {
 
 /* Change folder icon */
 :root {
-	--folder-icon-1: url("https://media.discordapp.net/attachments/1285979526978867224/1287274512328429731/2LaIWiF.png?ex=66f0f350&is=66efa1d0&hm=cdba447ae93336568604e946f3b49f8134b562a77d76fb94a46c89d9ff82ab2b&");
+	--folder-icon-1: url("https://github.com/kubiikoko/March-7th-Discord-Theme/blob/main/assets/hunt%20icon%20folder.png?raw=true");
   }
   
   [aria-label="Servers"] {
