@@ -21,7 +21,7 @@ Select your theme variation from up there in the source and drag and drop to you
 <img align="center" src="https://raw.githubusercontent.com/kubiikoko/March-7th-Discord-Theme/refs/heads/main/assets/dY3cF3X.png" height="360" width="640">
 
 ### ✿ March 7th Preservation: Light Mode
-<img align="center" src="https://raw.githubusercontent.com/kubiikoko/March-7th-Discord-Theme/refs/heads/main/assets/dY3cF3X.png" height="360" width="640">
+<img align="center" src="https://raw.githubusercontent.com/kubiikoko/March-7th-Discord-Theme/refs/heads/main/assets/3Ux5kRe.png" height="360" width="640">
 
 ### ✿ March 7th Hunt: Dark Mode
 <img align="center" src="https://raw.githubusercontent.com/kubiikoko/March-7th-Discord-Theme/refs/heads/main/assets/ZK2wSKk.png" height="360" width="640">
